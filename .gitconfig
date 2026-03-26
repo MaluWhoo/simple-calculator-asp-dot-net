@@ -1,0 +1,24 @@
+# .NET
+bin/
+obj/
+packages/
+*.user
+*.suo
+.vs/
+.vscode/
+
+# ASP.NET
+wwwroot/lib/
+Properties/launchSettings.json
+
+# Logs
+logs/
+*.log
+
+# Dependências
+node_modules/
+
+# Arquivos de usuário
+*.db
+*.mdf
+*.ldf
