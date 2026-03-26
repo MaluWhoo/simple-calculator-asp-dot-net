@@ -31,4 +31,4 @@ A simple yet functional web-based calculator built with ASP.NET Web Forms. Perfo
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/aspnet-calculator.git
+   git clone https://github.com/MaluWhoo/simple-calculator-asp-dot-net
